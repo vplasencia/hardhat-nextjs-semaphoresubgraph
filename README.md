@@ -1,6 +1,6 @@
 # Semaphore Hardhat + Next.js + SemaphoreEthers template
 
-This project is a complete application that demonstrates a basic Semaphore use case. It comes with a sample contract, a test for that contract and a sample task that deploys that contract. It also contains a frontend to play around with the contract. 
+This project is a complete application that demonstrates a basic Semaphore use case. It comes with a sample contract, a test for that contract and a sample task that deploys that contract. It also contains a frontend to play around with the contract.
 
 ## 📜 Usage
 
